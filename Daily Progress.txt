@@ -1,0 +1,12 @@
+Day -1
+------
+
+1. Laravel Herd setup
+
+2. Installed Maria DB and Heidi SQL
+
+3. Created a git repository [LaraViewTasks] Invited collbrators and added Task file.
+
+
+
+
