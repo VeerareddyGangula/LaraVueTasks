@@ -1,0 +1,20 @@
+Task: Create a full stack application where user can create tasks and mark them completed. One user cannot see other user tasks.
+
+Concepts to Learn:
+
+-	Laravel Herd setup and use
+-	Laravel starter kit initialization with Vue Frontend and authentication
+-	Basics of HTML, Javascript, TailwindCSS and Shadcn-Vue
+-	Install MariaDB as Database
+-	Create new Database, User, Grant permissions to User
+-	Alter Laravel .env file to use this database
+-	Create Migrations for Tasks with ForeignKey to User
+-	Create Models and update relations within Models
+-	Create Policy to control only authorized access to tasks
+-	Create Resources for sending Data to UI
+-	Create Controllers for Task Management
+-	Create VueJS components to show Tasks list
+-	Make it easy to tick and mark task as done
+-	Give ability to edit tasks inline
+-	Give ability to remove tasks
+
