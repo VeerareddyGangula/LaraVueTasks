@@ -9,7 +9,7 @@ Laravel: Laravel is a free and open-source PHP-based web framework for building 
 - Php latest version
 - Composer(dependency manager)
 - laravel Installer
-- Database
+- Database(Maria DB)
 - Basic Konwledge on Html,css,JS and Php
 
 After all these i am ready to create project in Laravel:
